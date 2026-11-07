@@ -13,6 +13,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 - [CSS Minifier](#css-minifier)
 - [JavaScript Beautifier](#javascript-beautifier)
 - [Unminify/Formating JSON - Check/Validating JSON](#unminifyformating-json---checkvalidating-json)
+- - [QantaraTools](https://www.qantaratools.com) - Fast, privacy-first client-side web utilities.
 - [Browse JSON in TreeView](#browse-json-in-treeview)
 - [Regex (Regular Expression) Tester and Highlighting](#regex-regular-expression-tester-and-highlighting)
 - [Unicode Converter](#unicode-converter)
